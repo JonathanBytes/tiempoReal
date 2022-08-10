@@ -1,0 +1,15 @@
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/bin/Debug/net6.0/condicionales
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/bin/Debug/net6.0/condicionales.deps.json
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/bin/Debug/net6.0/condicionales.runtimeconfig.json
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/bin/Debug/net6.0/condicionales.dll
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/bin/Debug/net6.0/condicionales.pdb
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/condicionales.csproj.AssemblyReference.cache
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/condicionales.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/condicionales.AssemblyInfoInputs.cache
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/condicionales.AssemblyInfo.cs
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/condicionales.csproj.CoreCompileInputs.cache
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/condicionales.dll
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/refint/condicionales.dll
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/condicionales.pdb
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/condicionales.genruntimeconfig.cache
+/home/jonathan/Documents/Universidad/2022-2/tiempoReal/condicionales/obj/Debug/net6.0/ref/condicionales.dll
